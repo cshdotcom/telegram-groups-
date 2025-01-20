@@ -5,9 +5,9 @@
 > 如果大家有发现存在敏感内容的群组、频道和机器人欢迎在issue中提交，会在第一时间处理。
 
 
-[GitHub项目直达](https://github.com/alexbei/telegram-groups)
+[GitHub项目直达](https://github.com/cshdotcom/telegram-groups-)
 
-[项目的背景故事](https://www.tgqun.xyz/background-story)
+[皮皮猫导航](http://ppm.ct.ws)
 
 
 
